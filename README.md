@@ -1,7 +1,7 @@
 - currently this page is under working don't judge
 
 <div align="center">
-<img src="" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
+<img src="https://github.com/Goutam-04/Goutam-04/blob/main/photos/ezgif.com-crop.gif" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
 </div>   
   
 
