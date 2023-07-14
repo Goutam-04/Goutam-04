@@ -5,23 +5,19 @@
 </div>   
   
 
-  <video controls loop>
-  <source src="./photos/medium.mp4" type="video/mp4">
-</video>
 
 ### <div align="center">I'm Goutam, a part-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [an anime data providing website](https://hritesh49.github.io/Anime-Web-App/)  
   
 
-- 🌱 I’m currently learning React.js and MongoDB
+- 🌱 I’m currently learning **React and mongodb**
+
+- 📫 How to reach me **goutamnayak2804@gmail.com**
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Hobbies: Want a 1v1 in Valorant😅  
   
 
 <br/>  
