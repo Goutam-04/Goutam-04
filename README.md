@@ -1,8 +1,8 @@
 - currently this page is under working don't judge
 
 <div align="center">
-<img src="./cover.jpg" align="center" style="width: 100%" />
-</div>  
+<img src="" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
+</div>   
   
 
 ### <div align="center">I'm Goutam, a part-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
