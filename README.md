@@ -5,6 +5,10 @@
 </div>   
   
 
+  <video controls loop>
+  <source src="./photos/medium.mp4" type="video/mp4">
+</video>
+
 ### <div align="center">I'm Goutam, a part-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
