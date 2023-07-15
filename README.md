@@ -95,4 +95,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Goutam-04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center" style="display:flex;flex-wrap:wrap;align-item:center;justify-content:center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutam-04&" alt="goutam-04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goutam-04&show_icons=true&locale=en" alt="goutam-04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goutam-04&show_icons=true&locale=en&layout=compact" alt="goutam-04" /></p>
+
+</div>  
