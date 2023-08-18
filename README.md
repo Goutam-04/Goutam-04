@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Goutam-04/Goutam-04/blob/main/photos/high.gif" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
+<img src="https://github.com/Goutam-04/Goutam-04/blob/main/photos/ezgif.com-crop.gif" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
 </div>   
   
 
@@ -8,10 +8,10 @@
 ### <div align="center">I'm Goutam, a part-time MERN-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [an anime data providing website](https://hritesh49.github.io/Anime-Web-App/)  
+- 🔭 I’m currently working on [a social media web project](https://github.com/Goutam-04/social)  
   
 
-- 🌱 I’m currently learning **React and mongodb**
+- 🌱 I’m currently learning **React and mongoDB**
 
 - 📫 How to reach me **goutamnayak2804@gmail.com**
   
