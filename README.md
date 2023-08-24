@@ -8,7 +8,7 @@
 ### <div align="center">I'm Goutam, a part-time MERN-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [a MERN social media web project](https://github.com/Goutam-04/social)  
+- 🔭 I’m currently working on [a MERN social media web project](https://goutam-04.github.io/social/)  
   
 
 - 🌱 I’m currently learning **React and mongoDB**
