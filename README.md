@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Goutam-04/Goutam-04/blob/main/photos/ezgif.com-crop.gif" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
+<img src="https://github.com/Goutam-04/Goutam-04/blob/main/photos/high.gif" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
 </div>   
   
 
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [a MERN social media web project](https://goutam-04.github.io/social/)  
   
 
-- 🌱 I’m currently learning **React and mongoDB**
+- 🌱 I’m currently learning **React with Typescript**
 
 - 📫 How to reach me **goutamnayak2804@gmail.com**
   
