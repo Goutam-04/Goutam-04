@@ -8,10 +8,10 @@
 ### <div align="center">I'm Goutam, a part-time MERN-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [a MERN social media web project](https://goutam-04.github.io/social/)  
+- 🔭 I’m currently working on [a MERN E-Commerce web project](https://github.com/Goutam-04/E-Commerce)  
   
 
-- 🌱 I’m currently learning **React with Typescript**
+- 🌱 I’m currently exploring **Redux-toolkit**
 
 - 📫 How to reach me **goutamnayak2804@gmail.com**
   
