@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Full stack Next JS Blogging site](https://github.com/Goutam-04/Blogging)  
   
 
-- 🌱 I’m currently exploring **Next JS**
+- 🌱 I’m currently exploring **Next JS and Docker**
 
 - 📫 How to reach me **goutamnayak2804@gmail.com**
   
