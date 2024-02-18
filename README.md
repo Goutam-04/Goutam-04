@@ -1,25 +1,26 @@
 
-<div align="center">
-<img src="https://github.com/Goutam-04/Goutam-04/blob/main/photos/ezgif.com-crop.gif" align="center" alt="Namaste ! I am Goutam Kumar Nayak" style="width: 100%" />
-</div>   
-  
+<h1 align="left"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
+<h3 align="left">I'm Goutam, a Full-Stack Developer</h3>
 
+- ✨ I'm passionate about the intersection of development and design.
 
-### <div align="center">I'm Goutam, a part-time MERN-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
-  
+- 🔭 I’m currently looking for new opporutnities, and hunting for hackathons.
 
-- 🔭 I’m currently working on [a social media web project](https://github.com/Goutam-04/social)  
-  
+- 🌱 I’m currently learning about **Docker and Kubernetes**.
 
-- 🌱 I’m currently learning **React and mongoDB**
+- 📌 Checkout my latest project **[CyberBlog](https://github.com/Goutam-04/Blogging)**.
 
 - 📫 How to reach me **goutamnayak2804@gmail.com**
-  
 
-- ⚡ Hobbies : Want a 1v1 in Valorant😅  
-  
+- <img align="bottom" src="https://user-images.githubusercontent.com/8835499/218330542-44214625-5d5c-495c-a4a0-b1e033ff95a9.png" width="20px" height="20px"/> I have code if you have coin. 
 
-<br/>  
+
+
+
+
+
+
+
 
 
 ## My Skill Set  
@@ -76,10 +77,11 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center" style="display:flex;align-item:center;justify-content:center">
+### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="center" style="width:30vmax;" src="https://github-readme-streak-stats.herokuapp.com/?user=goutam-04&" alt="goutam-04" /></p>
-<p>&nbsp;<img align="center" style="width:22vmax;" src="https://github-readme-stats.vercel.app/api/top-langs?username=goutam-04&show_icons=true&locale=en&layout=compact" alt="goutam-04" /></p>
-<p>&nbsp;<img align="center" style="width:30vmax;" src="https://github-readme-stats.vercel.app/api?username=goutam-04&show_icons=true&locale=en" alt="goutam-04" /></p>
-</div>  
+<p align="center">
+<a href="https://github.com/Goutam-04">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Goutam-04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Goutam-04&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
