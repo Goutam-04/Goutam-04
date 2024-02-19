@@ -17,12 +17,6 @@
 
 
 
-
-
-
-
-
-
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
 
