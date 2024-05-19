@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **Docker and Kubernetes**.
 
-- 📌 Checkout my latest project **[CyberBlog](https://github.com/Goutam-04/Blogging)**.
+- 📌 Checkout my latest project **[Dockerized IDE](https://github.com/Goutam-04/onlineIDE)**.
 
 - 📫 How to reach me **goutamnayak2804@gmail.com**
 
