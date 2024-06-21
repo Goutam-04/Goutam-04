@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for new opporutnities, and hunting for hackathons.
 
-- 🌱 I’m currently learning about **Docker and Kubernetes**.
+- 🌱 I’m currently learning about **TypeScript**.
 
 - 📌 Checkout my latest project **[Dockerized IDE](https://github.com/Goutam-04/onlineIDE)**.
 
