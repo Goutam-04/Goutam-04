@@ -1,5 +1,9 @@
 
+
 <h1 align="center"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
+
+
+
 <h3 align="left">I'm Goutam, a Full-Stack Developer</h3>
 
 - ✨ I'm passionate about the intersection of development and design.
@@ -14,7 +18,11 @@
 
 - <img align="bottom" src="https://user-images.githubusercontent.com/8835499/218330542-44214625-5d5c-495c-a4a0-b1e033ff95a9.png" width="20px" height="20px"/> I have code if you have coin. 
 
+<p align="center">
+<a href="https://ngoutam.is-a.dev"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
 
+ 
 
 
 ## My Skill Set  
@@ -82,14 +90,24 @@
 <br/>  
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Goutam-04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Goutam-04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Goutam-04&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
+  
+  
+  
+ <div align="center">
+<a href="http://www.github.com/Goutam-04"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Goutam-04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Goutam-04's GitHub stats" /></a>
+<a href="https://github.com/Goutam-04"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutam-04&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Goutam-04"/><img alt="Goutam-04 Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Goutam-04&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+</div>
+
+<h4 align="left">
+Fun Fact Of The Day
+</h4>
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+  
 
 
 <p align="center">
